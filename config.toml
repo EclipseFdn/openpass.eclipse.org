@@ -24,7 +24,6 @@ enableRobotsTXT = true
   call_for_action_icon = "fa-download"
   call_for_action_classes = "btn btn-secondary btn-huge"
   featured_content_publish_target = "openpass"
-  container = "container margin-bottom-50"
 
 [taxonomies]
   category = "categories"
