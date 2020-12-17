@@ -13,7 +13,7 @@ layout: "single"
 ---
 <!-- {{< page/objectives >}}-->
 
-{{< figure class="padding-10 margin-right-20 margin-left-20" src="/content/target-objectives-screenshot.jpg" alt="openPASS target objectives" >}}
+{{< figure class="padding-10" src="/content/target-objectives-screenshot.jpg" alt="openPASS target objectives" >}}
 
 The rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects. This especially refers, but is not limited, to safety effects in traffic. There are various methods and tools for prospective evaluation of safety systems with respect to traffic safety. Implementing the methodology by creating and maintaining the openPASS platform will support reliability and transparency of results obtained by simulation. The growing number, complexity, and variety of those vehicle functions make simulation an essential part in research, development, testing, public rating, and homologation and is thus, directly or indirectly, required by all stakeholders in vehicle safety, such as manufacturers, suppliers, insurance companies, legislators, consumer advocates, academia, and other. The aim is to provide a software platform that enables the simulation of traffic situations to predict real-world effectiveness of ADAS and AD functions. 
 
