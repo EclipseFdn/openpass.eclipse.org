@@ -28,11 +28,7 @@ Here you can download a <ins>[tutorial on how to configure a simulation with ope
 
 ## Documentation
 
-Here you can download the <ins>[function documentation to openPASS](openPASS_Function_Docu.chm)</ins>.
-
-Here you can download the <ins>[developer documentation to openPASS](openPASS_Delevoper_Docu.chm)</ins>.
-
-Here you can download the <ins>[GUI documentation to openPASS](GUI-DeveloperDocumentation.chm)</ins>.
+The documentation of openPASS can be found here: <ins>[openPASS Documentation](https://www.eclipse.org/simopenpass/content/html/index.html)</ins>. It consists of information about the installation, configuration and usage of all tools in the openPASS environment.
 
 ## Glossary  
 ### General  
