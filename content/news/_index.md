@@ -10,3 +10,5 @@ toc: false
 draft: false
 hide_sidebar: true
 ---
+
+{{< newsroom/news id="event-list-container" archive="true" publishTarget="openpass" count="10" paginate="true" >}}
