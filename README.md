@@ -6,8 +6,6 @@ This project is a work in progress. We are migrating the [current website](https
 
 The rise of advanced driver assistance systems and partially automated driving functions leads to the need of virtual simulation to assess these systems and their effects.
 
-[![Build Status](https://travis-ci.org/eclipsefdn/openpass.eclipse.org.svg?branch=master)](https://travis-ci.org/eclipsefdn/openpass.eclipse.org)
-
 ## Getting started
 
 Install dependencies, build assets and start a webserver:
