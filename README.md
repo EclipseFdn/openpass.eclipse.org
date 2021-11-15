@@ -11,7 +11,7 @@ The rise of advanced driver assistance systems and partially automated driving f
 Install dependencies, build assets and start a webserver:
 
 ```bash
-npm install && hugo server
+yarn && hugo server
 ```
 
 ## Contributing
