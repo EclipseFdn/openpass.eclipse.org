@@ -16,19 +16,9 @@ layout: "single"
 
 Sim@openPASS is the platform which is created, developed and maintained by the openPASS WG. The Eclipse sim@openPASS platform mainly consists of a GUI and a simulation core interacting with openPASS modules as well as external programs for post-processing. More information about the project can be found on the <ins>[project page](https://projects.eclipse.org/projects/technology.simopenpass)</ins>. The project source code is managed in GitLab. <ins>[This link](https://gitlab.eclipse.org/eclipse/simopenpass/simopenpass)</ins> directs you to GitLab where you can download the simulation platform.
 
-## Installation
-
-Here you can download <ins>[the installation guide for sim@openPASS](osi_world_setup_guide.pdf)</ins>.
-
-Besides that, the openPASS WG cooperates with the High-Performance Computing Center Stuttgart HLRS. They provide a <ins>[Windows installer for openPASS](https://fs.hlrs.de/projects/covise/support/download/openPASS/)</ins>. The openPASS WG and the Eclipse Foundation are not responsible for the content and the installer did not went through any Eclipse Foundation processes. For a quick setup please have a look on their site. If you are also interested to make distributions regarding openPASS relevant content, please get in contact with us. The contact information can be found in the tab "Contact".
-
-## Tutorial
-
-Here you can download a <ins>[tutorial on how to configure a simulation with openPASS](tutorial_openpass_gui.pdf)</ins>.
-
 ## Documentation
 
-The documentation of openPASS can be found here: <ins>[openPASS Documentation](https://www.eclipse.org/simopenpass/content/html/index.html)</ins>. It consists of information about the installation, configuration and usage of all tools in the openPASS environment.
+The documentation of openPASS can be found here: <ins>[openPASS Documentation](https://www.eclipse.org/simopenpass/content/html/index.html)</ins>. It consists of information about the installation, configuration and usage of openPASS.
 
 ## Glossary  
 ### General  
