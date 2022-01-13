@@ -29,17 +29,17 @@ The GUI is meant to give the user an easy access to configure experiments prior 
 
 The simulation framework is a standalone executable (to be precise, two of them). It consists of:  
 
-- the simulation core (master and slave),
+- the simulation (simulation manager and simulation core),
 - the core modules
 - and the agent components.  
 
-The core is a mostly generic assembly of data I/O routines, scheduler and a collection of interfaces. The master executable is meant to only collect and organize input data. The slave executable is the one performing the actual simulation. A master can, if configured so, start several experiments simultaneously by triggering several slaves.  
+The simulation is a mostly generic assembly of data I/O routines, scheduler and a collection of interfaces. The simulation manager is meant to only collect and organize input data. The simulation core is the one performing the actual simulation. A simulation manager can, if configured so, start several experiments simultaneously by triggering several simulation cores.  
 
-The core modules and agent components belong to the slave application. Both communicate with the slave via interfaces and bound dynamically at runtime.
+The core modules and agent components belong to the simulation core application. Both communicate with the simulation core via interfaces and bound dynamically at runtime.
 
 {{< figure class="padding-30 margin-right-50 margin-left-50" src="/architecture/core-module-diagram.jpg" alt="Core module diagram" >}}
 
-Core modules are all singletons and used by the slave and/or agent components. These are necessary for every simulation to run and cover basic needs like e.g.:  
+Core modules are all singletons and used by the simulation core and/or agent components. These are necessary for every simulation to run and cover basic needs like e.g.:  
 
 - contain world representation  
 - initiate agents within the world  
