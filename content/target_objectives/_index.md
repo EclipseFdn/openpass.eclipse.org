@@ -19,5 +19,5 @@ In short, openPASS specifies an open source platform for a prospective safety as
 
 The following presentation gives you a <ins>[short glance about the idea of openPASS](openpass_at_a_glance.pdf)</ins> (4th January 2022).
 
-<ins>[Here](https://https://www.youtube.com/watch?v=q458r3cPwsE&list=PLy7t4z5SYNaRXTpMGCTjbUtSwBnTtFa0U&index=55)<ins>, you can watch the presentation of openPASS on the EclipseCon 2021.
+<ins>[Here](https://www.youtube.com/watch?v=q458r3cPwsE&list=PLy7t4z5SYNaRXTpMGCTjbUtSwBnTtFa0U&index=55)<ins>, you can watch the presentation of openPASS on the EclipseCon 2021.
 
