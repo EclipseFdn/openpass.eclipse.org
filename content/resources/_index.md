@@ -53,4 +53,4 @@ The documentation of openPASS can be found here: <ins>[openPASS Documentation](h
 
 ## Report a Bug
 
-The openPASS WG uses Tuleap, an open source agile project management tool. Among other things, we are using it to track bugs, create user stories, epics and plan the next releases. Under the tracker “Bug” you can report your bug. Furthermore, you can find a summary which concludes all the previous fixed, ongoing and the new bugs. <ins>[Click here to create your first bug](https://tuleap.eclipse.org/plugins/tracker/?tracker=112)</ins>.
+The openPASS WG uses GitLab, an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more. Among other things, we are using it to track bugs, create user stories, epics and plan the next releases. Under the tracker “Issues” you can report your bug. Furthermore, you can find a summary which concludes all the previous fixed, ongoing and new bugs. <ins>[Click here to create your first bug](https://gitlab.eclipse.org/eclipse/simopenpass/simopenpass/-/issues)</ins>.
