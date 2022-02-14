@@ -34,12 +34,12 @@ The documentation of openPASS can be found here: <ins>[openPASS Documentation](h
 
 |Term          |Definition|
 |--------------|---|
-|Core          |Consists of a master-slave system and provides the main functionality of the platform, like creating agents, scheduling tasks and coordinating the flow of information.|
+|Core          |Consists of opSimulationManager and opSimulation and provides the main functionality of the platform, like creating agents, scheduling tasks and coordinating the flow of information.|
 |Core Module   |A module that provides a main function to the core, like a detection of collisions or some stochastic equations. These modules are not part of the core, but part of the platform itself. They´re exchangeable, so that some functionality can be implemented differently.|
-|Platform      |A software environment which provides the functionality to simulate a set of different traffic scenarios. Consists of the Master, Slave, Core Modules and Interfaces.|
+|Platform      |A software environment which provides the functionality to simulate a set of different traffic scenarios. Consists of the opSimulationManager, opSimulation, Core Modules and Interfaces.|
 |openPASS      |Platform for the simulative evaluation of active safety systems in vehicles.|
-|OpenPassMaster|Coordinator of the simulation process. It starts one slave for each scenario.|
-|OpenPassSlave |The OpenPassSlave is the simulator. It runs one scenario with a defined number of similar situations.|
+|opSimulationManager |Coordinator of the simulation process. It starts one simulation (opSimulation) for each scenario.|
+|opSimulation |The opSimulation is the simulator. It runs one scenario with a defined number of similar situations.|
 
 
 #### Agents  
