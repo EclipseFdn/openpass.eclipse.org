@@ -1,5 +1,14 @@
 # openpass.eclipse.org
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/openpass.eclipse.org) on March 16, 2022.
+
+---
+
+
+
 The [openpass.eclipse.org](https://openpass.eclipse.org) website is generated with [Hugo](https://gohugo.io/documentation/).
 
 This project is a work in progress. We are migrating the [current website](https://openpass.eclipse.org) to Hugo.
